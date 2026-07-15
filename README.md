@@ -13,7 +13,7 @@ Co-authored a research paper accepted for presentation at ICDAM 2026.
 * **Research & Hackathons:** Active participant in national hackathons (Smart India Hackathon) and academic research.
 
 ## Tech Stack
-* **Languages:** Python, JavaScript, C, HTML/CSS
+* **Languages:** Python, Java, JavaScript, C, HTML/CSS
 * **Frameworks & Backend:** React.js, Node.js, Express.js, Flask, Django, Flutter
 * **Data Science & ML:** Scikit-learn, Pandas, NumPy, CNNs (MobileNet, DenseNet), XGBoost
 * **Databases & Tools:** MySQL, MongoDB, Git, Jupyter
